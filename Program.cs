@@ -15,7 +15,8 @@ namespace Iseseisevtoo_Var2
             //TasksVar2.task1();
             //2
             //TasksVar2.task2();
-            //3
+            //3 не сделано
+            //TasksVar2.task3();
             Console.ReadLine();
         }
     }

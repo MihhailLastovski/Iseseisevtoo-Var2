@@ -63,5 +63,17 @@ namespace Iseseisevtoo_Var2
             TasksVar2.vivodmassiva(number_chet);
             TasksVar2.vivodmassiva(number_nechet);
         }
+        public static void task3() 
+        {
+            Random rnd = new Random();
+            int a = rnd.Next(1, 10000);
+            string b = Convert.ToString(a);
+            int c = b.Length;
+            int[] number = new int[c];
+            for (int i = 0; i < b.Length; i++)
+            {
+
+            }
+        }
     }
 }
