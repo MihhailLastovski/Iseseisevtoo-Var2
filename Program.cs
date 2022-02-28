@@ -31,7 +31,7 @@ namespace Iseseisevtoo_Var2
                 }
                 else if (chooose == 3)
                 {
-                    //3 не сделано
+                    //3 
                     TasksVar2.task3();
                 }
                 else 
